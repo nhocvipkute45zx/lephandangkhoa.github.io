@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body {
+	font-family:roboto;
+}
+h1 {
+	text-align: center;
+}
+.thongtin{
+	font-size:20px;
+}
